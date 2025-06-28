@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.2199319727891156
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.2199319727891156
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.220
+				text = "you"
+			intervals [2]:
+				xmin = 0.220
+				xmax = 0.380
+				text = "were"
+			intervals [3]:
+				xmin = 0.380
+				xmax = 1.160
+				text = "engaged"
+			intervals [4]:
+				xmin = 1.160
+				xmax = 1.2199319727891156
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.2199319727891156
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.100
+				text = "Y"
+			intervals [2]:
+				xmin = 0.100
+				xmax = 0.220
+				text = "UW1"
+			intervals [3]:
+				xmin = 0.220
+				xmax = 0.340
+				text = "W"
+			intervals [4]:
+				xmin = 0.340
+				xmax = 0.380
+				text = "ER1"
+			intervals [5]:
+				xmin = 0.380
+				xmax = 0.510
+				text = "EH0"
+			intervals [6]:
+				xmin = 0.510
+				xmax = 0.570
+				text = "N"
+			intervals [7]:
+				xmin = 0.570
+				xmax = 0.650
+				text = "G"
+			intervals [8]:
+				xmin = 0.650
+				xmax = 0.790
+				text = "EY1"
+			intervals [9]:
+				xmin = 0.790
+				xmax = 0.950
+				text = "JH"
+			intervals [10]:
+				xmin = 0.950
+				xmax = 1.160
+				text = "D"
+			intervals [11]:
+				xmin = 1.160
+				xmax = 1.200
+				text = "sp"
+			intervals [12]:
+				xmin = 1.200
+				xmax = 1.2199319727891156
+				text = ""

@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.1613378684807256
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.1613378684807256
+		intervals: size = 9
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.050
+				text = ""
+			intervals [2]:
+				xmin = 0.050
+				xmax = 0.240
+				text = "they"
+			intervals [3]:
+				xmin = 0.240
+				xmax = 0.520
+				text = "were"
+			intervals [4]:
+				xmin = 0.520
+				xmax = 0.660
+				text = "the"
+			intervals [5]:
+				xmin = 0.660
+				xmax = 0.800
+				text = ""
+			intervals [6]:
+				xmin = 0.800
+				xmax = 1.430
+				text = "presage"
+			intervals [7]:
+				xmin = 1.430
+				xmax = 1.610
+				text = "of"
+			intervals [8]:
+				xmin = 1.610
+				xmax = 2.100
+				text = "storm"
+			intervals [9]:
+				xmin = 2.100
+				xmax = 2.1613378684807256
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.1613378684807256
+		intervals: size = 23
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.050
+				text = "sil"
+			intervals [2]:
+				xmin = 0.050
+				xmax = 0.130
+				text = "DH"
+			intervals [3]:
+				xmin = 0.130
+				xmax = 0.240
+				text = "EY1"
+			intervals [4]:
+				xmin = 0.240
+				xmax = 0.400
+				text = "W"
+			intervals [5]:
+				xmin = 0.400
+				xmax = 0.520
+				text = "ER1"
+			intervals [6]:
+				xmin = 0.520
+				xmax = 0.570
+				text = "DH"
+			intervals [7]:
+				xmin = 0.570
+				xmax = 0.660
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.660
+				xmax = 0.800
+				text = "sp"
+			intervals [9]:
+				xmin = 0.800
+				xmax = 0.920
+				text = "P"
+			intervals [10]:
+				xmin = 0.920
+				xmax = 0.970
+				text = "R"
+			intervals [11]:
+				xmin = 0.970
+				xmax = 1.110
+				text = "EH1"
+			intervals [12]:
+				xmin = 1.110
+				xmax = 1.220
+				text = "S"
+			intervals [13]:
+				xmin = 1.220
+				xmax = 1.330
+				text = "IH0"
+			intervals [14]:
+				xmin = 1.330
+				xmax = 1.430
+				text = "JH"
+			intervals [15]:
+				xmin = 1.430
+				xmax = 1.510
+				text = "AH1"
+			intervals [16]:
+				xmin = 1.510
+				xmax = 1.610
+				text = "V"
+			intervals [17]:
+				xmin = 1.610
+				xmax = 1.710
+				text = "S"
+			intervals [18]:
+				xmin = 1.710
+				xmax = 1.800
+				text = "T"
+			intervals [19]:
+				xmin = 1.800
+				xmax = 1.940
+				text = "AO1"
+			intervals [20]:
+				xmin = 1.940
+				xmax = 2.040
+				text = "R"
+			intervals [21]:
+				xmin = 2.040
+				xmax = 2.100
+				text = "M"
+			intervals [22]:
+				xmin = 2.100
+				xmax = 2.140
+				text = "sp"
+			intervals [23]:
+				xmin = 2.140
+				xmax = 2.1613378684807256
+				text = ""
