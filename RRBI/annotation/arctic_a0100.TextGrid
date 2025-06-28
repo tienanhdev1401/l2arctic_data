@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.72 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.72 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "you" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.37 
+            text = "must" 
+        intervals [3]:
+            xmin = 0.37 
+            xmax = 0.86 
+            text = "sleep" 
+        intervals [4]:
+            xmin = 0.86 
+            xmax = 1.23 
+            text = "he" 
+        intervals [5]:
+            xmin = 1.23 
+            xmax = 1.7 
+            text = "urged" 
+        intervals [6]:
+            xmin = 1.7 
+            xmax = 1.72 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.72 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07 
+            text = "Y" 
+        intervals [2]:
+            xmin = 0.07 
+            xmax = 0.12 
+            text = "UW1" 
+        intervals [3]:
+            xmin = 0.12 
+            xmax = 0.2 
+            text = "M" 
+        intervals [4]:
+            xmin = 0.2 
+            xmax = 0.27 
+            text = "AH1" 
+        intervals [5]:
+            xmin = 0.27 
+            xmax = 0.34 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.34 
+            xmax = 0.37 
+            text = "T,sil,d" 
+        intervals [7]:
+            xmin = 0.37 
+            xmax = 0.5 
+            text = "S" 
+        intervals [8]:
+            xmin = 0.5 
+            xmax = 0.57 
+            text = "L" 
+        intervals [9]:
+            xmin = 0.57 
+            xmax = 0.72 
+            text = "IY1" 
+        intervals [10]:
+            xmin = 0.72 
+            xmax = 0.86 
+            text = "P" 
+        intervals [11]:
+            xmin = 0.86 
+            xmax = 1.05 
+            text = "HH" 
+        intervals [12]:
+            xmin = 1.05 
+            xmax = 1.23 
+            text = "IY1" 
+        intervals [13]:
+            xmin = 1.23 
+            xmax = 1.3632121566622066 
+            text = "ER1,AH1,s" 
+        intervals [14]:
+            xmin = 1.3632121566622066 
+            xmax = 1.38 
+            text = "R,sil,d" 
+        intervals [15]:
+            xmin = 1.38 
+            xmax = 1.47 
+            text = "JH" 
+        intervals [16]:
+            xmin = 1.47 
+            xmax = 1.7 
+            text = "D" 
+        intervals [17]:
+            xmin = 1.7 
+            xmax = 1.72 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Errors" 
+        xmin = 0 
+        xmax = 1.72 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.23 
+            text = "" 
+        intervals [2]:
+            xmin = 1.23 
+            xmax = 1.38 
+            text = "əɹ,ə,s" 
+        intervals [3]:
+            xmin = 1.38 
+            xmax = 1.72 
+            text = "" 

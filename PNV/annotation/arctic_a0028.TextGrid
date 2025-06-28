@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.401360544217687 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.401360544217687 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.72 
+            text = "robbery" 
+        intervals [3]:
+            xmin = 0.72 
+            xmax = 0.86 
+            text = "" 
+        intervals [4]:
+            xmin = 0.86 
+            xmax = 1.52 
+            text = "bribery" 
+        intervals [5]:
+            xmin = 1.52 
+            xmax = 1.76 
+            text = "" 
+        intervals [6]:
+            xmin = 1.76 
+            xmax = 2.3401277460415137 
+            text = "fraud" 
+        intervals [7]:
+            xmin = 2.3401277460415137 
+            xmax = 2.401360544217687 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.401360544217687 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.19 
+            text = "R" 
+        intervals [3]:
+            xmin = 0.19 
+            xmax = 0.23 
+            text = "AA1" 
+        intervals [4]:
+            xmin = 0.23 
+            xmax = 0.33 
+            text = "B" 
+        intervals [5]:
+            xmin = 0.33 
+            xmax = 0.46 
+            text = "ER0" 
+        intervals [6]:
+            xmin = 0.46 
+            xmax = 0.72 
+            text = "IY0" 
+        intervals [7]:
+            xmin = 0.72 
+            xmax = 0.86 
+            text = "sp" 
+        intervals [8]:
+            xmin = 0.86 
+            xmax = 0.9 
+            text = "B" 
+        intervals [9]:
+            xmin = 0.9 
+            xmax = 0.99 
+            text = "R" 
+        intervals [10]:
+            xmin = 0.99 
+            xmax = 1.1 
+            text = "AY1" 
+        intervals [11]:
+            xmin = 1.1 
+            xmax = 1.17 
+            text = "B" 
+        intervals [12]:
+            xmin = 1.17 
+            xmax = 1.3 
+            text = "ER0" 
+        intervals [13]:
+            xmin = 1.3 
+            xmax = 1.52 
+            text = "IY0" 
+        intervals [14]:
+            xmin = 1.52 
+            xmax = 1.76 
+            text = "sp" 
+        intervals [15]:
+            xmin = 1.76 
+            xmax = 1.93 
+            text = "F" 
+        intervals [16]:
+            xmin = 1.93 
+            xmax = 2.02 
+            text = "R" 
+        intervals [17]:
+            xmin = 2.02 
+            xmax = 2.14 
+            text = "AO1,AO*,s" 
+        intervals [18]:
+            xmin = 2.14 
+            xmax = 2.3401277460415137 
+            text = "D,T,s " 
+        intervals [19]:
+            xmin = 2.3401277460415137 
+            xmax = 2.38 
+            text = "sp" 
+        intervals [20]:
+            xmin = 2.38 
+            xmax = 2.401360544217687 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPA" 
+        xmin = 0 
+        xmax = 2.401360544217687 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.02 
+            text = "" 
+        intervals [2]:
+            xmin = 2.02 
+            xmax = 2.14 
+            text = "ɔ,ɔ˞,s " 
+        intervals [3]:
+            xmin = 2.14 
+            xmax = 2.3401277460415137 
+            text = "d,t,s " 
+        intervals [4]:
+            xmin = 2.3401277460415137 
+            xmax = 2.401360544217687 
+            text = "" 

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.73 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.73 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1865632875285076 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1865632875285076 
+            xmax = 0.3212728989720065 
+            text = "it" 
+        intervals [3]:
+            xmin = 0.3212728989720065 
+            xmax = 0.6493559849069795 
+            text = "won't" 
+        intervals [4]:
+            xmin = 0.6493559849069795 
+            xmax = 0.7688564466713738 
+            text = "be" 
+        intervals [5]:
+            xmin = 0.7688564466713738 
+            xmax = 0.9611435533286262 
+            text = "for" 
+        intervals [6]:
+            xmin = 0.9611435533286262 
+            xmax = 1.360926916322236 
+            text = "sale" 
+        intervals [7]:
+            xmin = 1.360926916322236 
+            xmax = 1.73 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.73 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1865632875285076 
+            text = "" 
+        intervals [2]:
+            xmin = 0.1865632875285076 
+            xmax = 0.29085459961379706 
+            text = "IH" 
+        intervals [3]:
+            xmin = 0.29085459961379706 
+            xmax = 0.3212728989720065 
+            text = "T" 
+        intervals [4]:
+            xmin = 0.3212728989720065 
+            xmax = 0.39840501520175187 
+            text = "W" 
+        intervals [5]:
+            xmin = 0.39840501520175187 
+            xmax = 0.5070417986239284 
+            text = "OW" 
+        intervals [6]:
+            xmin = 0.5070417986239284 
+            xmax = 0.6080740072065525 
+            text = "N" 
+        intervals [7]:
+            xmin = 0.6080740072065525 
+            xmax = 0.6493559849069795 
+            text = "T" 
+        intervals [8]:
+            xmin = 0.6493559849069795 
+            xmax = 0.6689106059229714 
+            text = "B" 
+        intervals [9]:
+            xmin = 0.6689106059229714 
+            xmax = 0.7688564466713738 
+            text = "IY" 
+        intervals [10]:
+            xmin = 0.7688564466713738 
+            xmax = 0.8633704482486674 
+            text = "F" 
+        intervals [11]:
+            xmin = 0.8633704482486674 
+            xmax = 0.9209479434624209 
+            text = "AO" 
+        intervals [12]:
+            xmin = 0.9209479434624209 
+            xmax = 0.9546253463232957 
+            text = "R" 
+        intervals [13]:
+            xmin = 0.9546253463232957 
+            xmax = 1.063262129745472 
+            text = "S" 
+        intervals [14]:
+            xmin = 1.063262129745472 
+            xmax = 1.212094523033854 
+            text = "EY" 
+        intervals [15]:
+            xmin = 1.212094523033854 
+            xmax = 1.360926916322236 
+            text = "L" 
+        intervals [16]:
+            xmin = 1.360926916322236 
+            xmax = 1.73 
+            text = "" 
