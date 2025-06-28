@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.93
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.93
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.030
+				text = ""
+			intervals [2]:
+				xmin = 0.030
+				xmax = 0.680
+				text = "billinger"
+			intervals [3]:
+				xmin = 0.680
+				xmax = 0.960
+				text = "may"
+			intervals [4]:
+				xmin = 0.960
+				xmax = 1.300
+				text = "arrive"
+			intervals [5]:
+				xmin = 1.300
+				xmax = 1.480
+				text = "in"
+			intervals [6]:
+				xmin = 1.480
+				xmax = 1.910
+				text = "time"
+			intervals [7]:
+				xmin = 1.910
+				xmax = 1.93
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.93
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.030
+				text = "sil"
+			intervals [2]:
+				xmin = 0.030
+				xmax = 0.100
+				text = "B"
+			intervals [3]:
+				xmin = 0.100
+				xmax = 0.210
+				text = "IH1"
+			intervals [4]:
+				xmin = 0.210
+				xmax = 0.250
+				text = "L"
+			intervals [5]:
+				xmin = 0.250
+				xmax = 0.340
+				text = "IH0"
+			intervals [6]:
+				xmin = 0.340
+				xmax = 0.500
+				text = "NG"
+			intervals [7]:
+				xmin = 0.500
+				xmax = 0.680
+				text = "ER0"
+			intervals [8]:
+				xmin = 0.680
+				xmax = 0.830
+				text = "M"
+			intervals [9]:
+				xmin = 0.830
+				xmax = 0.960
+				text = "EY1"
+			intervals [10]:
+				xmin = 0.960
+				xmax = 1.160
+				text = "ER0"
+			intervals [11]:
+				xmin = 1.160
+				xmax = 1.250
+				text = "AY1"
+			intervals [12]:
+				xmin = 1.250
+				xmax = 1.300
+				text = "V"
+			intervals [13]:
+				xmin = 1.300
+				xmax = 1.390
+				text = "IH1"
+			intervals [14]:
+				xmin = 1.390
+				xmax = 1.480
+				text = "N"
+			intervals [15]:
+				xmin = 1.480
+				xmax = 1.620
+				text = "T"
+			intervals [16]:
+				xmin = 1.620
+				xmax = 1.820
+				text = "AY1"
+			intervals [17]:
+				xmin = 1.820
+				xmax = 1.910
+				text = "M"
+			intervals [18]:
+				xmin = 1.910
+				xmax = 1.93
+				text = ""
