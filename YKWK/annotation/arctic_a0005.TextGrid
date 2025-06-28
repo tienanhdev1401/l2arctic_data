@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.33 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.33 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18 
+            text = "will" 
+        intervals [2]:
+            xmin = 0.18 
+            xmax = 0.42 
+            text = "we" 
+        intervals [3]:
+            xmin = 0.42 
+            xmax = 0.69 
+            text = "ever" 
+        intervals [4]:
+            xmin = 0.69 
+            xmax = 1.06 
+            text = "forget" 
+        intervals [5]:
+            xmin = 1.06 
+            xmax = 1.31 
+            text = "it" 
+        intervals [6]:
+            xmin = 1.31 
+            xmax = 1.33 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.33 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "W" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.12 
+            text = "IH1" 
+        intervals [3]:
+            xmin = 0.12 
+            xmax = 0.18 
+            text = "L" 
+        intervals [4]:
+            xmin = 0.18 
+            xmax = 0.24 
+            text = "W" 
+        intervals [5]:
+            xmin = 0.24 
+            xmax = 0.42 
+            text = "IY1" 
+        intervals [6]:
+            xmin = 0.42 
+            xmax = 0.54 
+            text = "EH1" 
+        intervals [7]:
+            xmin = 0.54 
+            xmax = 0.61 
+            text = "V" 
+        intervals [8]:
+            xmin = 0.61 
+            xmax = 0.69 
+            text = "ER0" 
+        intervals [9]:
+            xmin = 0.69 
+            xmax = 0.81 
+            text = "F" 
+        intervals [10]:
+            xmin = 0.81 
+            xmax = 0.85 
+            text = "ER0" 
+        intervals [11]:
+            xmin = 0.85 
+            xmax = 0.92 
+            text = "G" 
+        intervals [12]:
+            xmin = 0.92 
+            xmax = 1.03 
+            text = "EH1,AE1,s" 
+        intervals [13]:
+            xmin = 1.03 
+            xmax = 1.06 
+            text = "T" 
+        intervals [14]:
+            xmin = 1.06 
+            xmax = 1.16 
+            text = "IH0" 
+        intervals [15]:
+            xmin = 1.16 
+            xmax = 1.31 
+            text = "T" 
+        intervals [16]:
+            xmin = 1.31 
+            xmax = 1.33 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "comments" 
+        xmin = 0 
+        xmax = 1.33 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18 
+            text = "" 
+        intervals [2]:
+            xmin = 0.18 
+            xmax = 0.42 
+            text = "" 
+        intervals [3]:
+            xmin = 0.42 
+            xmax = 0.69 
+            text = "" 
+        intervals [4]:
+            xmin = 0.69 
+            xmax = 0.92 
+            text = "" 
+        intervals [5]:
+            xmin = 0.92 
+            xmax = 1.03 
+            text = "ɛ,æ,s" 
+        intervals [6]:
+            xmin = 1.03 
+            xmax = 1.06 
+            text = "" 
+        intervals [7]:
+            xmin = 1.06 
+            xmax = 1.31 
+            text = "" 
+        intervals [8]:
+            xmin = 1.31 
+            xmax = 1.33 
+            text = "" 

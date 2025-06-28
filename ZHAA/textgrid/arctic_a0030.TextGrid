@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.2908163265306123
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.2908163265306123
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.040
+				text = ""
+			intervals [2]:
+				xmin = 0.040
+				xmax = 0.180
+				text = "i"
+			intervals [3]:
+				xmin = 0.180
+				xmax = 0.400
+				text = "had"
+			intervals [4]:
+				xmin = 0.400
+				xmax = 0.660
+				text = "faith"
+			intervals [5]:
+				xmin = 0.660
+				xmax = 0.750
+				text = "in"
+			intervals [6]:
+				xmin = 0.750
+				xmax = 0.980
+				text = "them"
+			intervals [7]:
+				xmin = 0.980
+				xmax = 1.2908163265306123
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.2908163265306123
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.040
+				text = "sil"
+			intervals [2]:
+				xmin = 0.040
+				xmax = 0.180
+				text = "AY1"
+			intervals [3]:
+				xmin = 0.180
+				xmax = 0.250
+				text = "HH"
+			intervals [4]:
+				xmin = 0.250
+				xmax = 0.310
+				text = "AE1"
+			intervals [5]:
+				xmin = 0.310
+				xmax = 0.400
+				text = "D"
+			intervals [6]:
+				xmin = 0.400
+				xmax = 0.470
+				text = "F"
+			intervals [7]:
+				xmin = 0.470
+				xmax = 0.570
+				text = "EY1"
+			intervals [8]:
+				xmin = 0.570
+				xmax = 0.660
+				text = "TH"
+			intervals [9]:
+				xmin = 0.660
+				xmax = 0.690
+				text = "IH0"
+			intervals [10]:
+				xmin = 0.690
+				xmax = 0.750
+				text = "N"
+			intervals [11]:
+				xmin = 0.750
+				xmax = 0.820
+				text = "DH"
+			intervals [12]:
+				xmin = 0.820
+				xmax = 0.900
+				text = "EH1"
+			intervals [13]:
+				xmin = 0.900
+				xmax = 0.980
+				text = "M"
+			intervals [14]:
+				xmin = 0.980
+				xmax = 1.270
+				text = "sp"
+			intervals [15]:
+				xmin = 1.270
+				xmax = 1.2908163265306123
+				text = ""

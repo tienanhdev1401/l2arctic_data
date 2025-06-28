@@ -1,0 +1,122 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5986167800453515 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.5986167800453515 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "how" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.55 
+            text = "old" 
+        intervals [3]:
+            xmin = 0.55 
+            xmax = 0.65 
+            text = "are" 
+        intervals [4]:
+            xmin = 0.65 
+            xmax = 1.03 
+            text = "you" 
+        intervals [5]:
+            xmin = 1.03 
+            xmax = 1.55 
+            text = "daddy" 
+        intervals [6]:
+            xmin = 1.55 
+            xmax = 1.5986167800453515 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.5986167800453515 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "HH" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.27 
+            text = "AW1" 
+        intervals [3]:
+            xmin = 0.27 
+            xmax = 0.41 
+            text = "OW1" 
+        intervals [4]:
+            xmin = 0.41 
+            xmax = 0.49 
+            text = "L" 
+        intervals [5]:
+            xmin = 0.49 
+            xmax = 0.55 
+            text = "D" 
+        intervals [6]:
+            xmin = 0.55 
+            xmax = 0.6141977349438067 
+            text = "AA1" 
+        intervals [7]:
+            xmin = 0.6141977349438067 
+            xmax = 0.65 
+            text = "R,sil,d" 
+        intervals [8]:
+            xmin = 0.65 
+            xmax = 0.86 
+            text = "Y" 
+        intervals [9]:
+            xmin = 0.86 
+            xmax = 1.03 
+            text = "UW1" 
+        intervals [10]:
+            xmin = 1.03 
+            xmax = 1.14 
+            text = "D" 
+        intervals [11]:
+            xmin = 1.14 
+            xmax = 1.22 
+            text = "AE1" 
+        intervals [12]:
+            xmin = 1.22 
+            xmax = 1.29 
+            text = "D" 
+        intervals [13]:
+            xmin = 1.29 
+            xmax = 1.55 
+            text = "IY0" 
+        intervals [14]:
+            xmin = 1.55 
+            xmax = 1.58 
+            text = "sp" 
+        intervals [15]:
+            xmin = 1.58 
+            xmax = 1.5986167800453515 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPA" 
+        xmin = 0 
+        xmax = 1.5986167800453515 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6141977349438067 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6141977349438067 
+            xmax = 0.65 
+            text = "ɹ,sil,d" 
+        intervals [3]:
+            xmin = 0.65 
+            xmax = 1.5986167800453515 
+            text = "" 

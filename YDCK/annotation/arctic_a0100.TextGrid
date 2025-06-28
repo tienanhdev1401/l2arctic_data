@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.2653968253968255 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.2653968253968255 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07 
+            text = "" 
+        intervals [2]:
+            xmin = 0.07 
+            xmax = 0.22 
+            text = "you" 
+        intervals [3]:
+            xmin = 0.22 
+            xmax = 0.49 
+            text = "must" 
+        intervals [4]:
+            xmin = 0.49 
+            xmax = 1.11 
+            text = "sleep" 
+        intervals [5]:
+            xmin = 1.11 
+            xmax = 1.19 
+            text = "" 
+        intervals [6]:
+            xmin = 1.19 
+            xmax = 1.46 
+            text = "he" 
+        intervals [7]:
+            xmin = 1.46 
+            xmax = 2.1033650167844904 
+            text = "urged" 
+        intervals [8]:
+            xmin = 2.1033650167844904 
+            xmax = 2.2653968253968255 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.2653968253968255 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.07 
+            xmax = 0.18 
+            text = "Y" 
+        intervals [3]:
+            xmin = 0.18 
+            xmax = 0.22 
+            text = "UW1" 
+        intervals [4]:
+            xmin = 0.22 
+            xmax = 0.32 
+            text = "M" 
+        intervals [5]:
+            xmin = 0.32 
+            xmax = 0.41 
+            text = "AH1" 
+        intervals [6]:
+            xmin = 0.41 
+            xmax = 0.46 
+            text = "S" 
+        intervals [7]:
+            xmin = 0.46 
+            xmax = 0.49 
+            text = "T" 
+        intervals [8]:
+            xmin = 0.49 
+            xmax = 0.7 
+            text = "S" 
+        intervals [9]:
+            xmin = 0.7 
+            xmax = 0.81 
+            text = "L" 
+        intervals [10]:
+            xmin = 0.81 
+            xmax = 0.93 
+            text = "IY1,IH1,s" 
+        intervals [11]:
+            xmin = 0.93 
+            xmax = 1.11 
+            text = "P" 
+        intervals [12]:
+            xmin = 1.11 
+            xmax = 1.19 
+            text = "sp" 
+        intervals [13]:
+            xmin = 1.19 
+            xmax = 1.33 
+            text = "HH" 
+        intervals [14]:
+            xmin = 1.33 
+            xmax = 1.46 
+            text = "IY1" 
+        intervals [15]:
+            xmin = 1.46 
+            xmax = 1.69 
+            text = "ER1" 
+        intervals [16]:
+            xmin = 1.69 
+            xmax = 1.7822920053732387 
+            text = "JH" 
+        intervals [17]:
+            xmin = 1.7822920053732387 
+            xmax = 1.8865579833057586 
+            text = "sil,IH0,a" 
+        intervals [18]:
+            xmin = 1.8865579833057586 
+            xmax = 2.1033650167844904 
+            text = "D,T,s" 
+        intervals [19]:
+            xmin = 2.1033650167844904 
+            xmax = 2.25 
+            text = "sp" 
+        intervals [20]:
+            xmin = 2.25 
+            xmax = 2.2653968253968255 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPA" 
+        xmin = 0 
+        xmax = 2.2653968253968255 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.81 
+            text = "" 
+        intervals [2]:
+            xmin = 0.81 
+            xmax = 0.93 
+            text = "i,ɪ,s" 
+        intervals [3]:
+            xmin = 0.93 
+            xmax = 1.7822920053732387 
+            text = "" 
+        intervals [4]:
+            xmin = 1.7822920053732387 
+            xmax = 1.8865579833057586 
+            text = "sil,ɪ,a" 
+        intervals [5]:
+            xmin = 1.8865579833057586 
+            xmax = 2.1033650167844904 
+            text = "d,t,s" 
+        intervals [6]:
+            xmin = 2.1033650167844904 
+            xmax = 2.2653968253968255 
+            text = "" 
