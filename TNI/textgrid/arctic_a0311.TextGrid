@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.7
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.7
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.16
+				text = ""
+			intervals [2]:
+				xmin = 0.16
+				xmax = 0.73
+				text = "therefore"
+			intervals [3]:
+				xmin = 0.73
+				xmax = 0.79
+				text = ""
+			intervals [4]:
+				xmin = 0.79
+				xmax = 1.15
+				text = "hurrah"
+			intervals [5]:
+				xmin = 1.15
+				xmax = 1.4
+				text = "for"
+			intervals [6]:
+				xmin = 1.4
+				xmax = 1.49
+				text = "the"
+			intervals [7]:
+				xmin = 1.49
+				xmax = 1.87
+				text = "game"
+			intervals [8]:
+				xmin = 1.87
+				xmax = 2.7
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.7
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.16
+				text = "sil"
+			intervals [2]:
+				xmin = 0.16
+				xmax = 0.27
+				text = "DH"
+			intervals [3]:
+				xmin = 0.27
+				xmax = 0.36
+				text = "EH1"
+			intervals [4]:
+				xmin = 0.36
+				xmax = 0.44
+				text = "R"
+			intervals [5]:
+				xmin = 0.44
+				xmax = 0.54
+				text = "F"
+			intervals [6]:
+				xmin = 0.54
+				xmax = 0.58
+				text = "AO2"
+			intervals [7]:
+				xmin = 0.58
+				xmax = 0.73
+				text = "R"
+			intervals [8]:
+				xmin = 0.73
+				xmax = 0.79
+				text = "sil"
+			intervals [9]:
+				xmin = 0.79
+				xmax = 0.87
+				text = "HH"
+			intervals [10]:
+				xmin = 0.87
+				xmax = 0.91
+				text = "UH0"
+			intervals [11]:
+				xmin = 0.91
+				xmax = 1.02
+				text = "R"
+			intervals [12]:
+				xmin = 1.02
+				xmax = 1.15
+				text = "AA1"
+			intervals [13]:
+				xmin = 1.15
+				xmax = 1.28
+				text = "F"
+			intervals [14]:
+				xmin = 1.28
+				xmax = 1.32
+				text = "R"
+			intervals [15]:
+				xmin = 1.32
+				xmax = 1.4
+				text = "ER0"
+			intervals [16]:
+				xmin = 1.4
+				xmax = 1.44
+				text = "DH"
+			intervals [17]:
+				xmin = 1.44
+				xmax = 1.49
+				text = "AH0"
+			intervals [18]:
+				xmin = 1.49
+				xmax = 1.59
+				text = "G"
+			intervals [19]:
+				xmin = 1.59
+				xmax = 1.72
+				text = "EY1"
+			intervals [20]:
+				xmin = 1.72
+				xmax = 1.87
+				text = "M"
+			intervals [21]:
+				xmin = 1.87
+				xmax = 2.68
+				text = "sil"
+			intervals [22]:
+				xmin = 2.68
+				xmax = 2.7
+				text = ""

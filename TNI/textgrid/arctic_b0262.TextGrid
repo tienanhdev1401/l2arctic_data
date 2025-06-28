@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.71
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.71
+		intervals: size = 9
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.03
+				text = ""
+			intervals [2]:
+				xmin = 0.03
+				xmax = 0.89
+				text = "saxon's"
+			intervals [3]:
+				xmin = 0.89
+				xmax = 1.32
+				text = ""
+			intervals [4]:
+				xmin = 1.32
+				xmax = 1.52
+				text = "is"
+			intervals [5]:
+				xmin = 1.52
+				xmax = 1.87
+				text = "onto"
+			intervals [6]:
+				xmin = 1.87
+				xmax = 2.06
+				text = "her"
+			intervals [7]:
+				xmin = 2.06
+				xmax = 2.15
+				text = ""
+			intervals [8]:
+				xmin = 2.15
+				xmax = 2.53
+				text = "job"
+			intervals [9]:
+				xmin = 2.53
+				xmax = 2.71
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.71
+		intervals: size = 23
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.03
+				text = "sil"
+			intervals [2]:
+				xmin = 0.03
+				xmax = 0.18
+				text = "S"
+			intervals [3]:
+				xmin = 0.18
+				xmax = 0.27
+				text = "AE1"
+			intervals [4]:
+				xmin = 0.27
+				xmax = 0.36
+				text = "K"
+			intervals [5]:
+				xmin = 0.36
+				xmax = 0.44
+				text = "S"
+			intervals [6]:
+				xmin = 0.44
+				xmax = 0.55
+				text = "AH0"
+			intervals [7]:
+				xmin = 0.55
+				xmax = 0.66
+				text = "N"
+			intervals [8]:
+				xmin = 0.66
+				xmax = 0.89
+				text = "Z"
+			intervals [9]:
+				xmin = 0.89
+				xmax = 1.32
+				text = "sil"
+			intervals [10]:
+				xmin = 1.32
+				xmax = 1.43
+				text = "IH0"
+			intervals [11]:
+				xmin = 1.43
+				xmax = 1.52
+				text = "Z"
+			intervals [12]:
+				xmin = 1.52
+				xmax = 1.66
+				text = "AO1"
+			intervals [13]:
+				xmin = 1.66
+				xmax = 1.73
+				text = "N"
+			intervals [14]:
+				xmin = 1.73
+				xmax = 1.79
+				text = "T"
+			intervals [15]:
+				xmin = 1.79
+				xmax = 1.87
+				text = "UW0"
+			intervals [16]:
+				xmin = 1.87
+				xmax = 1.97
+				text = "HH"
+			intervals [17]:
+				xmin = 1.97
+				xmax = 2.06
+				text = "ER0"
+			intervals [18]:
+				xmin = 2.06
+				xmax = 2.15
+				text = "sil"
+			intervals [19]:
+				xmin = 2.15
+				xmax = 2.31
+				text = "JH"
+			intervals [20]:
+				xmin = 2.31
+				xmax = 2.47
+				text = "AA1"
+			intervals [21]:
+				xmin = 2.47
+				xmax = 2.53
+				text = "B"
+			intervals [22]:
+				xmin = 2.53
+				xmax = 2.69
+				text = "sil"
+			intervals [23]:
+				xmin = 2.69
+				xmax = 2.71
+				text = ""

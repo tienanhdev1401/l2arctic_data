@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.4363038548752833
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.4363038548752833
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.030
+				text = ""
+			intervals [2]:
+				xmin = 0.030
+				xmax = 0.350
+				text = "he"
+			intervals [3]:
+				xmin = 0.350
+				xmax = 0.530
+				text = "did"
+			intervals [4]:
+				xmin = 0.530
+				xmax = 0.790
+				text = "not"
+			intervals [5]:
+				xmin = 0.790
+				xmax = 1.050
+				text = "rush"
+			intervals [6]:
+				xmin = 1.050
+				xmax = 1.230
+				text = "in"
+			intervals [7]:
+				xmin = 1.230
+				xmax = 1.4363038548752833
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.4363038548752833
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.030
+				text = "sil"
+			intervals [2]:
+				xmin = 0.030
+				xmax = 0.260
+				text = "HH"
+			intervals [3]:
+				xmin = 0.260
+				xmax = 0.350
+				text = "IY1"
+			intervals [4]:
+				xmin = 0.350
+				xmax = 0.420
+				text = "D"
+			intervals [5]:
+				xmin = 0.420
+				xmax = 0.470
+				text = "IH1"
+			intervals [6]:
+				xmin = 0.470
+				xmax = 0.530
+				text = "D"
+			intervals [7]:
+				xmin = 0.530
+				xmax = 0.590
+				text = "N"
+			intervals [8]:
+				xmin = 0.590
+				xmax = 0.700
+				text = "AA1"
+			intervals [9]:
+				xmin = 0.700
+				xmax = 0.790
+				text = "T"
+			intervals [10]:
+				xmin = 0.790
+				xmax = 0.830
+				text = "R"
+			intervals [11]:
+				xmin = 0.830
+				xmax = 0.900
+				text = "AH1"
+			intervals [12]:
+				xmin = 0.900
+				xmax = 1.050
+				text = "SH"
+			intervals [13]:
+				xmin = 1.050
+				xmax = 1.100
+				text = "IH1"
+			intervals [14]:
+				xmin = 1.100
+				xmax = 1.230
+				text = "N"
+			intervals [15]:
+				xmin = 1.230
+				xmax = 1.420
+				text = "sp"
+			intervals [16]:
+				xmin = 1.420
+				xmax = 1.4363038548752833
+				text = ""

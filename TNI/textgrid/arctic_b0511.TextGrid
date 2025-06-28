@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.56
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.56
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.05
+				text = ""
+			intervals [2]:
+				xmin = 0.05
+				xmax = 0.24
+				text = "do"
+			intervals [3]:
+				xmin = 0.24
+				xmax = 0.39
+				text = "you"
+			intervals [4]:
+				xmin = 0.39
+				xmax = 0.72
+				text = "value"
+			intervals [5]:
+				xmin = 0.72
+				xmax = 0.94
+				text = "your"
+			intervals [6]:
+				xmin = 0.94
+				xmax = 1.37
+				text = "hide"
+			intervals [7]:
+				xmin = 1.37
+				xmax = 1.56
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.56
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.05
+				text = "sil"
+			intervals [2]:
+				xmin = 0.05
+				xmax = 0.16
+				text = "D"
+			intervals [3]:
+				xmin = 0.16
+				xmax = 0.24
+				text = "UW1"
+			intervals [4]:
+				xmin = 0.24
+				xmax = 0.29
+				text = "Y"
+			intervals [5]:
+				xmin = 0.29
+				xmax = 0.39
+				text = "UW1"
+			intervals [6]:
+				xmin = 0.39
+				xmax = 0.45
+				text = "V"
+			intervals [7]:
+				xmin = 0.45
+				xmax = 0.51
+				text = "AE1"
+			intervals [8]:
+				xmin = 0.51
+				xmax = 0.57
+				text = "L"
+			intervals [9]:
+				xmin = 0.57
+				xmax = 0.69
+				text = "Y"
+			intervals [10]:
+				xmin = 0.69
+				xmax = 0.72
+				text = "UW0"
+			intervals [11]:
+				xmin = 0.72
+				xmax = 0.84
+				text = "Y"
+			intervals [12]:
+				xmin = 0.84
+				xmax = 0.9
+				text = "AO1"
+			intervals [13]:
+				xmin = 0.9
+				xmax = 0.94
+				text = "R"
+			intervals [14]:
+				xmin = 0.94
+				xmax = 1.08
+				text = "HH"
+			intervals [15]:
+				xmin = 1.08
+				xmax = 1.26
+				text = "AY1"
+			intervals [16]:
+				xmin = 1.26
+				xmax = 1.37
+				text = "D"
+			intervals [17]:
+				xmin = 1.37
+				xmax = 1.54
+				text = "sil"
+			intervals [18]:
+				xmin = 1.54
+				xmax = 1.56
+				text = ""
