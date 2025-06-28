@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.5257142857142858 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.5257142857142858 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14 
+            text = "it" 
+        intervals [2]:
+            xmin = 0.14 
+            xmax = 0.33 
+            text = "was" 
+        intervals [3]:
+            xmin = 0.33 
+            xmax = 0.43 
+            text = "a" 
+        intervals [4]:
+            xmin = 0.43 
+            xmax = 0.9 
+            text = "large" 
+        intervals [5]:
+            xmin = 0.9 
+            xmax = 1.46 
+            text = "canoe" 
+        intervals [6]:
+            xmin = 1.46 
+            xmax = 1.5257142857142858 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.5257142857142858 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09 
+            text = "IH1" 
+        intervals [2]:
+            xmin = 0.09 
+            xmax = 0.14 
+            text = "T" 
+        intervals [3]:
+            xmin = 0.14 
+            xmax = 0.17 
+            text = "W" 
+        intervals [4]:
+            xmin = 0.17 
+            xmax = 0.26 
+            text = "AH1" 
+        intervals [5]:
+            xmin = 0.26 
+            xmax = 0.33 
+            text = "Z" 
+        intervals [6]:
+            xmin = 0.33 
+            xmax = 0.43 
+            text = "AH0" 
+        intervals [7]:
+            xmin = 0.43 
+            xmax = 0.52 
+            text = "L" 
+        intervals [8]:
+            xmin = 0.52 
+            xmax = 0.65 
+            text = "AA1" 
+        intervals [9]:
+            xmin = 0.65 
+            xmax = 0.74 
+            text = "R" 
+        intervals [10]:
+            xmin = 0.74 
+            xmax = 0.9 
+            text = "JH,SH,s" 
+        intervals [11]:
+            xmin = 0.9 
+            xmax = 1 
+            text = "K" 
+        intervals [12]:
+            xmin = 1 
+            xmax = 1.05 
+            text = "AH0" 
+        intervals [13]:
+            xmin = 1.05 
+            xmax = 1.16 
+            text = "N" 
+        intervals [14]:
+            xmin = 1.16 
+            xmax = 1.46 
+            text = "UW1" 
+        intervals [15]:
+            xmin = 1.46 
+            xmax = 1.51 
+            text = "sp" 
+        intervals [16]:
+            xmin = 1.51 
+            xmax = 1.5257142857142858 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "IPA" 
+        xmin = 0 
+        xmax = 1.5257142857142858 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.74 
+            text = "" 
+        intervals [2]:
+            xmin = 0.74 
+            xmax = 0.9 
+            text = "dʒ,ʃ,s" 
+        intervals [3]:
+            xmin = 0.9 
+            xmax = 1.5257142857142858 
+            text = "" 
