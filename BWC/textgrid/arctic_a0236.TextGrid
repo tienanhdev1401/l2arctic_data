@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.5649886621315192
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.5649886621315192
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.270
+				text = "don't"
+			intervals [2]:
+				xmin = 0.270
+				xmax = 0.440
+				text = "you"
+			intervals [3]:
+				xmin = 0.440
+				xmax = 0.740
+				text = "see"
+			intervals [4]:
+				xmin = 0.740
+				xmax = 0.850
+				text = "i"
+			intervals [5]:
+				xmin = 0.850
+				xmax = 1.240
+				text = "hate"
+			intervals [6]:
+				xmin = 1.240
+				xmax = 1.460
+				text = "you"
+			intervals [7]:
+				xmin = 1.460
+				xmax = 1.5649886621315192
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.5649886621315192
+		intervals: size = 16
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.090
+				text = "D"
+			intervals [2]:
+				xmin = 0.090
+				xmax = 0.150
+				text = "OW1"
+			intervals [3]:
+				xmin = 0.150
+				xmax = 0.210
+				text = "N"
+			intervals [4]:
+				xmin = 0.210
+				xmax = 0.270
+				text = "T"
+			intervals [5]:
+				xmin = 0.270
+				xmax = 0.310
+				text = "Y"
+			intervals [6]:
+				xmin = 0.310
+				xmax = 0.440
+				text = "UW1"
+			intervals [7]:
+				xmin = 0.440
+				xmax = 0.590
+				text = "S"
+			intervals [8]:
+				xmin = 0.590
+				xmax = 0.740
+				text = "IY1"
+			intervals [9]:
+				xmin = 0.740
+				xmax = 0.850
+				text = "AY1"
+			intervals [10]:
+				xmin = 0.850
+				xmax = 1.010
+				text = "HH"
+			intervals [11]:
+				xmin = 1.010
+				xmax = 1.140
+				text = "EY1"
+			intervals [12]:
+				xmin = 1.140
+				xmax = 1.240
+				text = "T"
+			intervals [13]:
+				xmin = 1.240
+				xmax = 1.300
+				text = "Y"
+			intervals [14]:
+				xmin = 1.300
+				xmax = 1.460
+				text = "UW1"
+			intervals [15]:
+				xmin = 1.460
+				xmax = 1.550
+				text = "sp"
+			intervals [16]:
+				xmin = 1.550
+				xmax = 1.5649886621315192
+				text = ""
